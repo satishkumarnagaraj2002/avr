@@ -39,3 +39,4 @@ Import the project into Vercel and use the default Vite settings:
 - `src/styles.css` contains the responsive design system. Motion uses Motion's reduced-motion preference, GSAP ScrollTrigger and Lenis; reduced-motion preferences disable the scroll effects.
 # avr
 # avrinstitution2006
+# avrinstitution2006
