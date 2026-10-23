@@ -38,3 +38,4 @@ Import the project into Vercel and use the default Vite settings:
 - The contact form validates fields but deliberately does not claim to send messages. Connect it to a secure, spam-protected server endpoint before accepting online enquiries.
 - `src/styles.css` contains the responsive design system. Motion uses Motion's reduced-motion preference, GSAP ScrollTrigger and Lenis; reduced-motion preferences disable the scroll effects.
 # avr
+# avrinstitution2006
