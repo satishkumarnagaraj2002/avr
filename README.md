@@ -41,3 +41,4 @@ Import the project into Vercel and use the default Vite settings:
 # avrinstitution2006
 # avrinstitution2006
 # avr
+# avr
